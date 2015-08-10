@@ -22,17 +22,14 @@ Open a console (command prompt)
 Go to the directory where you unzipped your download
 type "make"
 
-
 = Running Application =
 Run the config tool first!
-﻿  In a command prompt go to the directory where you unzipped your download
-﻿  and type "java -jar Linux-G13-GUI.jar"
-﻿  This will bring up the UI and create the initial files needed for your driver.
-﻿  All config files are saved in $(HOME)/.g13
+In a command prompt go to the directory where you unzipped your downloadand type "java -jar Linux-G13-GUI.jar"
+This will bring up the UI and create the initial files needed for your driver.
+All config files are saved in $(HOME)/.g13
 
 Run the driver
-﻿  In a command prompt go to the directory where you unzipped your download
-﻿  and type "sudo ./G13-Linux-Driver"
+In a command prompt go to the directory where you unzipped your download and type "sudo ./G13-Linux-Driver"
 
 If you are configuring the application while the driver is running, the driver will
 not pick up changes unless you select a different bindings set or you can restart
